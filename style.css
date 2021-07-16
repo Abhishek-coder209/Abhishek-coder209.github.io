@@ -95,3 +95,10 @@ h1,h2,h3{
 p {
   line-height:1.5;
 }
+.abhi{
+  border-radius:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
